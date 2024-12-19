@@ -1,0 +1,39 @@
+.libra{background-color: whitesmoke;
+width: 50%;
+text-align: center;}
+.blue{color: blue;}
+.red{color: red;}
+.brown{color: bisque;}
+.marron{color: pink;}
+.aqua{color: aqua;}
+.label{height: 80px;
+    width: 240px; 
+    text-align: center;
+    display: inline-block;
+margin-bottom: 15px; border:hidden;}
+    .dreamers{background-color: pink;}
+    .author{background-color: blueviolet;}
+    .storyteller{background-color: plum;}
+    .adv{background-color: aquamarine;}
+    .explorers{background-color: palevioletred;}
+    .researcher{background-color: bisque;}
+    .readers{background-color: aqua;}
+    .future{background-color: paleturquoise;}
+    .news{column-count: 2;
+    column-gap: normal;}
+    .italic{
+        font-family: "Imperial Script", serif;
+        font-weight: 400;
+        font-style: normal;}
+      
+      .libray {
+        font-family: "Imperial Script", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 60px;
+      }
+      
+      
+    .
+    
+
